@@ -1,17 +1,31 @@
-# codealpha_flashcard_quiz
+#  FlashLearn — Flashcard Quiz App
 
-A new Flutter project.
+A simple and interactive flashcard learning app built using **Flutter and Dart**.
 
-## Getting Started
+###  Features
 
-This project is a starting point for a Flutter application.
+*  Multiple predefined categories
+*  Create custom categories and flashcards
+*  Reveal answers interactively
+*  Search flashcards
+*  Edit and delete flashcards
+*  Track study progress
 
-A few resources to get you started if this is your first Flutter project:
+###  Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Flutter • Dart • Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###  Run the App
+
+```bash
+flutter pub get
+flutter run
+```
+
+###  Developer
+
+**Padmasri S.**
+
+Developed as part of the **CodeAlpha App Development Internship — November 2026**.
+
+🔗 **GitHub:** https://github.com/iyshpadmasri-dotcom/CodeAlpha_FlashcardQuiz
